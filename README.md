@@ -21,13 +21,31 @@ This tool is designed to give quick visual feedback and help users stay aware of
 
 ## 📸 What It Looks Like
 
-When visiting a trusted site, you’ll see a flashing banner at the top of the page: "Marked as trusted by you"
+### How to Enable a Trusted Website
 
-![full_snap__1747897772](https://github.com/user-attachments/assets/394037d3-25c1-4a03-a433-5720a9f57188)
+Click the extension icon to mark a website as **trusted**.
 
+<img src="https://github.com/user-attachments/assets/d0df4e95-b485-41bb-ba0d-82f938b95596" width="30%" />
 
-You can customize how this banner looks in the **Options** page.
+---
 
+### Trusted Site Banner
+
+When visiting a trusted site, you’ll see a flashing banner at the top of the page:
+
+> **"Marked as trusted by you"**
+
+<img src="https://github.com/user-attachments/assets/394037d3-25c1-4a03-a433-5720a9f57188" width="30%" />
+
+This serves as a visual confirmation that you're on a trusted domain.
+
+---
+
+### Customization Options
+
+You can customize how the banner looks — color, message, number of flashes, and delay — from the **Options** page.
+
+<img src="https://github.com/user-attachments/assets/b470984d-c5f5-4d07-8657-dea8967983eb" width="70%" />
 
 
 
